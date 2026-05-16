@@ -78,4 +78,4 @@ App runs at → `http://localhost:3000`
 
 ## 👨‍💻 Developer
 
-**Rushikesh** — MCA (AI & ML), Ramdeobaba University, Nagpur
+**Rushikesh** 
